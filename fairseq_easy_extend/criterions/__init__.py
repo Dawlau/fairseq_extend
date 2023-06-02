@@ -1,2 +1,3 @@
 from .comet import *
-from .bleurt import *
+from .chrf import *
+from .ter import *
